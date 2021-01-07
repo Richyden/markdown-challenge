@@ -13,17 +13,17 @@
 ### Hobbies
 
 * Reading
-⋅⋅* Fantasy
-⋅⋅* Dark Fantasy
-⋅⋅* Horror
+    * Fantasy
+    * Dark Fantasy
+    * Horror
 
 * Video Games
-⋅⋅* RPG
-⋅⋅* Puzzle
-⋅⋅* Story Games
+    * RPG
+    * Puzzle
+    * Story Games
 
-*Role Playing Games (paper)
-    *Cthulhu
-    *Mine
-    *Knight
+* Role Playing Games (paper)
+    * Cthulhu
+    * Mine
+    * Knight
 

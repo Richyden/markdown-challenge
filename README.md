@@ -27,3 +27,17 @@
     * Mine
     * Knight
 
+#### You can always count on me...
+
+To help you the best way I can even if I don't know how or the answer. I always try to put a smile on your face ! Because you're so much awsome when you're happy :D
+
+##### A funny Story
+
+When I was a kid, I almost lost my right eye. I was playing in the wood with my childhood friends. Everything was fine but suddenly, I slipped and fell from a rock. When I hit the ground, a stone hurt me near my eye.
+Hopefully, It wasn't too severe and like the doctor said "You were lucky! Two centimeters lower and you lost your eye!"
+Yes, this sentence traumatized me.
+
+###### TL;DR
+How I almost lost my right eye.
+
+[<<previous]() || Richard Denys || [next>>]()

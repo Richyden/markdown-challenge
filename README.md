@@ -6,7 +6,6 @@
 
 ## Me, in one sentence
 
-| Birthday            | 12/09                                                           |
-| Favorite color:     | ![#6438bc](https://via.placeholder.com/15/6438bc/000000?text=+) |
-| Favorite Food:      | Fries                                                           |
-| Pinneaple on pizza: | [ ] Yes [ ] No [X] HELL NO                                      |
+| Birthday | Favorite color : | Favorite food : | Pinneaple on pizza : |
+| -------  | ---------        | ------------    | -------------------  |
+| 12/09    | ![#6438bc](https://via.placeholder.com/15/6438bc/000000?text=+) | Fries  | [ ] Yes [ ] No [:heavy_check_mark:] HELL NO  |

@@ -23,7 +23,7 @@
 ⋅⋅* Story Games
 
 *Role Playing Games (paper)
-⋅⋅*Cthulhu
-⋅⋅*Mine
-⋅⋅*Knight
+    *Cthulhu
+    *Mine
+    *Knight
 

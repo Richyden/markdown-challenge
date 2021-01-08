@@ -22,7 +22,7 @@
     * Puzzle :jigsaw:
     * Story Games :scroll:
 
-* Role Playing Games (paper) :game_dice:
+* Role Playing Games (paper) :game_die:
     * Cthulhu :octopus:
     * "Le Règne du Silence" (Mine) :black_nib:
     * Knight :hocho:

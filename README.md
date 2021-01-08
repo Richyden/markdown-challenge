@@ -8,24 +8,29 @@
 
 | Birthday | Favorite color : | Favorite food : | Pinneaple on pizza : |
 | -------  | ---------        | ------------    | -------------------  |
-| 12/09    | ![#6438bc](https://via.placeholder.com/15/6438bc/000000?text=+) | Fries  | [ ] Yes [ ] No [:heavy_check_mark:] HELL NO  |
+| 12/09    | ![#6438bc](https://via.placeholder.com/15/6438bc/000000?text=+) | :fries:  | [ ] Yes [ ] No [:heavy_check_mark:] HELL NO  |
 
 ### Hobbies
 
-* Reading
-    * Fantasy
-    * Dark Fantasy
-    * Horror
+* Reading :closed_book:
+    * Fantasy :carousel_horse:
+    * Dark Fantasy :skull:
+    * Horror :scream:
 
-* Video Games
-    * RPG
-    * Puzzle
-    * Story Games
+* Video Games :video_game:
+    * RPG :crystal_ball:
+    * Puzzle :jigsaw:
+    * Story Games :scroll:
 
-* Role Playing Games (paper)
-    * Cthulhu
-    * Mine
-    * Knight
+* Role Playing Games (paper) :game_dice:
+    * Cthulhu :octopus:
+    * "Le Règne du Silence" (Mine) :black_nib:
+    * Knight :hocho:
+
+* Music
+    * Metal :metal:
+    * Rock :musical_note:
+    * "Classique" :notes:
 
 #### You can always count on me...
 
@@ -40,4 +45,4 @@ Yes, this sentence traumatized me.
 ###### TL;DR
 How I almost lost my right eye.
 
-[<<previous]() || Richard Denys || [next>>]()
+[<<Rekha Lambotte](https://github.com/RekhaLambotte/markdown-challenge.git) || Richard Denys || [Samantha Ramakers>>](https://github.com/Samantha-35/Markdown-challenge)
